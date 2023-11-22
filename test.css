@@ -11,29 +11,35 @@
 
 }
 
-body{
+body {
   background-color: black;
+  margin: 0% 8%;
 }
 
-.main-title{
-  color: white;
-font-family: Zen Dots;
-font-size: 48px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-text-align: center;
+.text-area {
+  margin: 80px 10px 60px 10px;
 }
 
-.main-text{
+.main-title {
   color: white;
-text-align: center;
-font-family: Inter;
-font-size: 24.583px;
-font-style: normal;
-font-weight: 400;
-line-height: normal;
-margin: auto;
+  font-family: Zen Dots;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+  margin: 0px 0px 40px 0px;
+}
+
+.main-text {
+  color: white;
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  /* margin: auto; */
 }
 
 .grid {
